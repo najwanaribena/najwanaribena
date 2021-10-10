@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @najwanaribena
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Backend Developer
+- 🌱 I’m currently learning Backend Developer
+- 💞️ I’m looking to collaborate on Backend Developer
 - 📫 How to reach me aribenanajwan@gmail.com
 
 <!---
