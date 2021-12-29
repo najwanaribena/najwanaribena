@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @najwanaribena
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Backend Developer
-- 💞️ I’m looking to collaborate on Backend Developer
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate with UI/UX Designer
 - 📫 How to reach me aribenanajwan@gmail.com
 
 <!---
