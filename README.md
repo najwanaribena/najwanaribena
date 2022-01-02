@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @najwanaribena
 - 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently Web 3
 - 💞️ I’m looking to collaborate with UI/UX Designer
 - 📫 How to reach me aribenanajwan@gmail.com
 
